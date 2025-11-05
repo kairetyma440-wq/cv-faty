@@ -10,7 +10,7 @@ body {
 }
 .cv {
   max-width: 800px;
-  margin: 30px auto;
+  margin: 2% auto;
   background-color:#fff;
   padding: 20px 40px;
   box-shadow: 0 0 5px ;
@@ -166,6 +166,7 @@ button {
   padding: 10px;
   cursor: pointer;
 }
+
 
 
 
