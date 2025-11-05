@@ -47,7 +47,7 @@ body {
   margin: 15px 0 0;
   display: flex;
   justify-content: center;
-  gap: 8px;
+  gap: 6px;
 }
 
 .menu ul li a {
@@ -166,5 +166,6 @@ button {
   padding: 10px;
   cursor: pointer;
 }
+
 
 
