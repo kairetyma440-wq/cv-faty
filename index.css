@@ -10,14 +10,14 @@ body {
 }
 .cv {
   max-width: 800px;
-  margin: 2% auto;
+  margin: 30px auto;
   background-color:#fff;
   padding: 20px 40px;
   box-shadow: 0 0 5px ;
 }
 .entete {
   background-color: #f0f4f8;
-  margin: 30px;
+  margin: 2%;
   text-align: center;
   width: 100%;
   box-shadow: 0 1px 5px 0;
@@ -47,7 +47,7 @@ body {
   margin: 15px 0 0;
   display: flex;
   justify-content: center;
-  gap: 6px;
+  gap: 8px;
 }
 
 .menu ul li a {
@@ -166,11 +166,5 @@ button {
   padding: 10px;
   cursor: pointer;
 }
-
-
-
-
-
-
 
 
